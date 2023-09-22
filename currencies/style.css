@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #ECF87F;
+    color: white;
+    text-align: center;
+}
+
+h4 {
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.container {
+    background-color: black;
+    margin: 300px auto;
+    width: 300px;
+    min-height: 150px;
+    border-radius: 20px;
+}
+
+.container2 {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 130px 130px;
+    justify-content: space-around;
+    row-gap: 10px;
+}
+
+.in1,
+.in2,
+.drop1,
+.drop2,
+#but {
+    border-radius: 20px;
+}
+
+#but {
+    width: 150px;
+    margin-top: 10px;
+}

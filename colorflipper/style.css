@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#color {
+    float: right;
+}
+
+.container {
+    margin: 200px auto;
+    margin-left: 50%;
+}
+
+#wrap {
+    border: 1px solid red;
+    width: 100%;
+    height: 600px;
+}
